@@ -1,6 +1,8 @@
 
 # Simon-Game-Website
-Its a nice game to play.
+Its a nice game to play.Here is the link to go to that game website,
+
+https://anubhav980.github.io/Simon-Game-Website/
 
 
 My High Score , Try to beat it.
